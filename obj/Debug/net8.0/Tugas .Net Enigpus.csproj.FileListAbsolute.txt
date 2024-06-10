@@ -1,0 +1,14 @@
+C:\UpSkill\DotNet\Tugas .Net Enigpus\bin\Debug\net8.0\Tugas .Net Enigpus.exe
+C:\UpSkill\DotNet\Tugas .Net Enigpus\bin\Debug\net8.0\Tugas .Net Enigpus.deps.json
+C:\UpSkill\DotNet\Tugas .Net Enigpus\bin\Debug\net8.0\Tugas .Net Enigpus.runtimeconfig.json
+C:\UpSkill\DotNet\Tugas .Net Enigpus\bin\Debug\net8.0\Tugas .Net Enigpus.dll
+C:\UpSkill\DotNet\Tugas .Net Enigpus\bin\Debug\net8.0\Tugas .Net Enigpus.pdb
+C:\UpSkill\DotNet\Tugas .Net Enigpus\obj\Debug\net8.0\Tugas .Net Enigpus.GeneratedMSBuildEditorConfig.editorconfig
+C:\UpSkill\DotNet\Tugas .Net Enigpus\obj\Debug\net8.0\Tugas .Net Enigpus.AssemblyInfoInputs.cache
+C:\UpSkill\DotNet\Tugas .Net Enigpus\obj\Debug\net8.0\Tugas .Net Enigpus.AssemblyInfo.cs
+C:\UpSkill\DotNet\Tugas .Net Enigpus\obj\Debug\net8.0\Tugas .Net Enigpus.csproj.CoreCompileInputs.cache
+C:\UpSkill\DotNet\Tugas .Net Enigpus\obj\Debug\net8.0\Tugas .Net Enigpus.dll
+C:\UpSkill\DotNet\Tugas .Net Enigpus\obj\Debug\net8.0\refint\Tugas .Net Enigpus.dll
+C:\UpSkill\DotNet\Tugas .Net Enigpus\obj\Debug\net8.0\Tugas .Net Enigpus.pdb
+C:\UpSkill\DotNet\Tugas .Net Enigpus\obj\Debug\net8.0\Tugas .Net Enigpus.genruntimeconfig.cache
+C:\UpSkill\DotNet\Tugas .Net Enigpus\obj\Debug\net8.0\ref\Tugas .Net Enigpus.dll
